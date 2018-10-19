@@ -1,6 +1,8 @@
 ## *Backend Twitter*
 ___________________
-> Dalam Tugas Backend Twitter berisikan code program bagaimana melakukan LogIn data user, SignUp Data user, kemudian berisi kode pemograman  bagaimana data user yang sudah tersedia melakukan tweet
+> *Dalam Tugas Backend Twitter berisikan code program bagaimana melakukan LogIn data user, SignUp Data user, kemudian berisi kode pemograman  bagaimana data user yang sudah tersedia melakukan tweet*
+
+> ini sudah di edit
 
 # ***Fitur-Fitur***
 
