@@ -5,7 +5,8 @@ ___________________
 # ***Fitur-Fitur***
 
 * LogIn Data user with Post 
-```class logIn(Resource):
+```python
+class logIn(Resource):
     def __init__(self):
         self.reqparse = reqparse.RequestParser()
         self.reqparse.add_argument(
@@ -32,7 +33,8 @@ ___________________
 ```
 
 * Sign Up Data user with post
-```def userNameandEmailhaveExist(username,email):
+```python
+def userNameandEmailhaveExist(username,email):
     for data in dataUser:
         if data["username"] == username or data["email"] == email:
             abort(400, message = "Data Sudah Tersedia")
