@@ -1,0 +1,15 @@
+cd /d/namafolder 
+
+mkdir folder = buat folder
+
+cd..	= kembali ke folder sebelumnya 
+cd d:	= maju ke folde d
+ls	= ls untuk me list folder
+ls-al	=
+vim file.txt
+touch file.txt
+rm file.txt
+rm -r folderyang mau di hapus 
+mv tambah.txt kurang txt = memindahkan data ke file baru
+cat kurang.txt = mengeluarkan isi file.txt
+
