@@ -1,1 +1,0 @@
-mencoba merge with visual studio dan git bash
