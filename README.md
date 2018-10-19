@@ -76,3 +76,4 @@ kenapa ini ????
 hayoo kenapa ini
 mau nyoba lagi nih 
 gaggagagaga
+aku mau mencoba lagi merge yang ke dua kali 
