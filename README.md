@@ -1,5 +1,5 @@
-## *Backend Twitter*
-___________________
+# ***Backend Twitter***
+
 > Dalam Tugas Backend Twitter berisikan code program bagaimana melakukan LogIn data user, SignUp Data user, kemudian berisi kode pemograman  bagaimana data user yang sudah tersedia melakukan tweet
 
 # ***Fitur-Fitur***
@@ -68,12 +68,3 @@ class signUP(Resource):
 -------
 *Lisensi proyek direktori Python ini merupakan domain publik (public domain)*
 *Program Bootcamp Makers Institute*
-
-mau nyoba merge 
-oke masih mencoba
-
-kenapa ini ???? 
-hayoo kenapa ini
-mau nyoba lagi nih 
-gaggagagaga
-aku mau mencoba lagi merge yang ke dua kali 
